@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ...Full-Stack Web Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...contact me 
+- 📫 How to reach me ... 
 - 😄 Pronouns: ...Male/Human
 - ⚡ Fun fact: ...Today is not Yesterday.
 
